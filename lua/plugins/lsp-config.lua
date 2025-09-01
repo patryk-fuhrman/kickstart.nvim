@@ -208,6 +208,9 @@ return {
         -- ts_ls = {},
         --
         ts_ls = {},
+        angularls = {},
+        html = {},
+        cssls = {},
         lua_ls = {
           -- cmd = { ... },
           -- filetypes = { ... },
